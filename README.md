@@ -13,6 +13,7 @@ ToDos:
 
 - keybindings -> keystrokes for easy use of menuitems
 - toggle groups 
+- edit MenuItems (rearrange window)
 
 
 
